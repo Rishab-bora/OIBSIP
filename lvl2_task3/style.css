@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: hsl(146, 74%, 55%);
+    margin-left: 33%;
+    margin-top: 4px;
+}
+.add{
+    width: 250px;
+    padding: 7px;
+    border: 2px solid black;
+    outline: none;
+    background-color: aliceblue;
+}
+button{
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+    background-color: hsl(146, 74%, 55%);
+    color: rgb(18, 21, 23);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.text ul{
+    position: relative;
+    background: #faf4f4;
+    color: rgb(17, 17, 16);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left ;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: rgb(15, 15, 14);
+
+}
